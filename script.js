@@ -24,7 +24,7 @@ async function joke() {
     document.querySelector(".name").style.display = "block";
   });
 
-  console.log(data);
+  // console.log(data);
 
   // document.querySelector(".content p").style.display = "block";
 }
