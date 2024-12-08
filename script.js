@@ -8,7 +8,7 @@ const qAp =
   "http://cors-anywhere.herokuapp.com/https://rapidapi.com/HealThruWords/api/universal-inspirational-quotes/playground/53cc559de4b06cf88bc65e0a";
 
 const sampApi =
-  "http://cors-anywhere.herokuapp.com/https://zenquotes.io/api/random";
+  "https://cors-anywhere.herokuapp.com/https://zenquotes.io/api/random";
 
 btn.addEventListener("click", joke);
 
